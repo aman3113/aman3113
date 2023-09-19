@@ -34,13 +34,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
 </div>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aman3113&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
 <!---
 aman3113/aman3113 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
